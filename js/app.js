@@ -9,11 +9,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
   /* Traigo la información desde una api local */
 const fetchData = async () => {
-    try {
-      const res = await fetch('/api.json');
-      const data = await res.json();
-      agregarCards(data);
-    } catch (error) {
-      console.log(error);
-    }
+  try {
+    const res = await fetch('./api.json/');
+    console.log(res);
+    const data = await res.json();
+    agregarCards(data);
+  } catch (error) {
+    console.log(error);
   }
+}
