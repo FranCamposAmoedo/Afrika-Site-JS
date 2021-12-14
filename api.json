@@ -1,0 +1,56 @@
+[{
+        "id": 1,
+        "nombre": "Caoba",
+        "madera": "Nogal",
+        "diametro": "40mm",
+        "ancho": "16mm",
+        "peso": "26 grs",
+        "precio": "7999",
+        "imagen": "../images/relojes/RelojNegroConLogo.png",
+        "alt": "Reloj de Madera Oscuro"
+    },
+    {
+        "id": 2,
+        "nombre": "Roble Claro",
+        "madera": "Roble",
+        "diametro": "40mm",
+        "ancho": "16mm",
+        "peso": "24 grs",
+        "precio": "7699",
+        "imagen": "../images/relojes/RelojClaroConLogo.png",
+        "alt": "Reloj de Madera Roble Claro"
+    },
+    {
+        "id": 3,
+        "nombre": "Bamboo",
+        "madera": "Bambú",
+        "diametro": "41mm",
+        "ancho": "17mm",
+        "peso": "21 grs",
+        "precio": "7699",
+        "imagen": "../images/relojes/RelojBamboo.png",
+        "alt": "Reloj Vintage de Madera"
+    },
+    {
+        "id": 4,
+        "nombre": "Dark Forest",
+        "madera": "Olivo",
+        "diametro": "41mm",
+        "ancho": "18mm",
+        "peso": "24 grs",
+        "precio": "8199",
+        "imagen": "../images/relojes/RelojDarkForest.png",
+        "alt": "Reloj de Madera con Detalles Negros"
+    },
+    {
+        "id": 5,
+        "nombre": "Cuero",
+        "madera": "Nogal",
+        "diametro": "39mm",
+        "ancho": "16mm",
+        "peso": "20 grs",
+        "precio": "7299",
+        "imagen": "../images/relojes/RelojOscuroCuero.png",
+        "alt": "Reloj de Madera con Malla Cuero"
+    }  
+]

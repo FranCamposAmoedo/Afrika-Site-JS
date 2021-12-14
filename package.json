@@ -1,0 +1,18 @@
+{
+  "name": "afrika-site-js",
+  "version": "1.0.0",
+  "description": "Tienda de de Accesorios de Madera",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Francisco Campos",
+    "email": "francisco.campos.amoedo@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FranCamposAmoedo/Afrika-site/issues"
+  },
+  "homepage": "https://github.com/FranCamposAmoedo/Afrika-site#readme"
+}
